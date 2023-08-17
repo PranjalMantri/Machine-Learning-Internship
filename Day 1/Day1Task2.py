@@ -1,4 +1,4 @@
-# Task 2
+# Task 2 - Basic Dictionary Accessing
 
 myData = {"Category": [{"A": "FIRST", "Package": {"Data": "2 Lacs"}},
                        {"B": "Second", "Data": {"New": [100]}},
