@@ -11,6 +11,8 @@ for i in range(30, 10, -2):
 
 num = int(input("Enter a number: "))
 
+# FOR ELSE LOOP
+
 for i in range(0, 100):
     if num == i:
         print("Number Found")
