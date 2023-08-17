@@ -1,5 +1,4 @@
-# Task 1
-
+# Task 1 - Basic Dictionary Accessing 
 myData = {"Maharashtra": {"Mumbai": {"City": "Metro City", "Metro": "Yes"},
                            "population": "20 Cr."},
           "Gujarat": ["Ahmedabad", "Surat", "Rajkot"],
